@@ -1,0 +1,4 @@
+Edit 2: I'm not editng anything just writing to it
+If you don't explicitly change the line while writing then python will just go on writng and
+this will happenThis I wrote by calling another write
+This is edit 3 and the new line that you are reading is right now was appended to the already existing file in this edit

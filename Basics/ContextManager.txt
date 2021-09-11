@@ -1,0 +1,3 @@
+Well the context manager makes sure that the resource opened in its contex 
+will close once we exit its block. Thus ensuring that no useless file is left
+opened in the memmory.

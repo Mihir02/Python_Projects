@@ -1,0 +1,2 @@
+This is just another text file, initially created to test file handeling 
+when the file is an another directory.
